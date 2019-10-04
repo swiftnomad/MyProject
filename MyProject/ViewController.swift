@@ -10,6 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var numOne = 1
+    var numTwo = 2
+    
+    var numThree = 3
+    var numFour = 4
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
